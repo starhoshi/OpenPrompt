@@ -1,0 +1,48 @@
+.open-prompt-container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.open-prompt-container.with-separator {
+  border-right: 1px solid #dadce0;
+  padding-right: 4px;
+  margin-right: 4px;
+}
+
+.open-prompt-separator {
+  margin: 0 4px;
+}
+
+.open-prompt-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 40px;
+  border: none;
+  border-radius: 50%;
+  background-color: transparent;
+  cursor: pointer;
+  transition: background-color 0.15s;
+  position: relative;
+  vertical-align: middle;
+}
+
+.open-prompt-icon {
+  display: block;
+  width: 20px;
+  height: 20px;
+  color: var(--bbQxAb, #5f6368);
+}
+
+.open-prompt-btn:hover {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .open-prompt-container.with-separator {
+    border-right-color: #3c4043;
+  }
+}

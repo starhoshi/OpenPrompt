@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Open Prompt",
+    "description": "Name of the extension"
+  },
+  "extDescription": {
+    "message": "Quickly send your Google search query to ChatGPT, Claude, or Perplexity with one click",
+    "description": "Description of the extension"
+  },
+  "searchWith": {
+    "message": "Search with $AI$",
+    "description": "Tooltip text for AI buttons",
+    "placeholders": {
+      "ai": {
+        "content": "$1"
+      }
+    }
+  },
+  "optionsTitle": {
+    "message": "AI Buttons to Display",
+    "description": "Title of the options page"
+  },
+  "errorAtLeastOne": {
+    "message": "At least one AI must be selected.",
+    "description": "Error message when trying to uncheck all options"
+  },
+  "chatgpt": { "message": "ChatGPT" },
+  "claude": { "message": "Claude" },
+  "perplexity": { "message": "Perplexity" }
+}

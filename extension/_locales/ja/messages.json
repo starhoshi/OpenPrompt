@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Open Prompt",
+    "description": "拡張機能の名前"
+  },
+  "extDescription": {
+    "message": "Google検索のクエリをワンクリックでChatGPT、Claude、Perplexityに送信",
+    "description": "拡張機能の説明"
+  },
+  "searchWith": {
+    "message": "$AI$で検索",
+    "description": "AIボタンのツールチップテキスト",
+    "placeholders": {
+      "ai": {
+        "content": "$1"
+      }
+    }
+  },
+  "optionsTitle": {
+    "message": "表示するAIボタン",
+    "description": "オプション画面のタイトル"
+  },
+  "errorAtLeastOne": {
+    "message": "少なくとも1つのAIを選択する必要があります。",
+    "description": "すべてのオプションを外そうとした時のエラーメッセージ"
+  },
+  "chatgpt": { "message": "ChatGPT" },
+  "claude": { "message": "Claude" },
+  "perplexity": { "message": "Perplexity" }
+}

@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.DS_Store
+
+# Design assets
+design/*.key
+design/*.psd
+design/*.ai
+
+# Logs
+*.log
+
+# AI Docs
+AGENTS.md
+CLAUDE.md
+
+*.zip

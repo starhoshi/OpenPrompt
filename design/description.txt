@@ -1,0 +1,28 @@
+# Chrome Web Store Description
+
+## English
+
+A Chrome extension that sends your Google search query to AI services with one click.
+
+- Supports ChatGPT, Claude, and Perplexity
+- Seamlessly integrated into Google's search bar
+- Customize which AI buttons to display
+- Supports dark mode and light mode
+
+No data is sent to external servers.
+Source code is available on GitHub for transparency and peace of mind.
+https://github.com/starhoshi/OpenPrompt
+
+
+## Japanese (日本語)
+
+Google検索のクエリをワンクリックでAIサービスに送信できる拡張機能です
+
+- ChatGPT、Claude、Perplexityに対応しています
+- 検索バーに自然に統合され、ワンクリックでAIが開きます
+- 表示するAIボタンをカスタマイズできます
+- ダークモード/ライトモードに対応しています
+
+外部サーバなどにデータを送信することはありません。
+ソースコードは GitHub にて公開されており、安心してご利用いただくことが可能です。
+https://github.com/starhoshi/OpenPrompt

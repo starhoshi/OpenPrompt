@@ -24,7 +24,7 @@ Google 検索のクエリをワンクリックで ChatGPT、Claude、Perplexity 
 
 ### Chrome Web Store
 
-準備中
+[Chrome Web Storeからインストール](https://chromewebstore.google.com/detail/open-prompt/gkbeibjbkgchailochempflgljkeofkh)
 
 ## ディレクトリ構成
 

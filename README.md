@@ -24,7 +24,7 @@ A Chrome extension that lets you send your Google search query to ChatGPT, Claud
 
 ### Chrome Web Store
 
-Coming soon
+[Install from Chrome Web Store](https://chromewebstore.google.com/detail/open-prompt/gkbeibjbkgchailochempflgljkeofkh)
 
 ## Directory Structure
 

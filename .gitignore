@@ -14,4 +14,7 @@ design/*.ai
 AGENTS.md
 CLAUDE.md
 
+# Local settings
+settings.local.json
+
 *.zip

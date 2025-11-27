@@ -2,6 +2,8 @@
 
 Google 検索のクエリをワンクリックで ChatGPT、Claude、Perplexity に送信できる Chrome 拡張機能です。
 
+**[Chrome Web Storeからインストール](https://chromewebstore.google.com/detail/open-prompt/gkbeibjbkgchailochempflgljkeofkh)**
+
 [English README](./README.md)
 
 ## 機能
@@ -21,10 +23,6 @@ Google 検索のクエリをワンクリックで ChatGPT、Claude、Perplexity 
 2. 「デベロッパーモード」を ON にする（右上）
 3. 「パッケージ化されていない拡張機能を読み込む」をクリック
 4. `extension/` フォルダを選択
-
-### Chrome Web Store
-
-[Chrome Web Storeからインストール](https://chromewebstore.google.com/detail/open-prompt/gkbeibjbkgchailochempflgljkeofkh)
 
 ## ディレクトリ構成
 

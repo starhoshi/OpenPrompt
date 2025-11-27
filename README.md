@@ -2,6 +2,8 @@
 
 A Chrome extension that lets you send your Google search query to ChatGPT, Claude, or Perplexity with one click.
 
+**[Install from Chrome Web Store](https://chromewebstore.google.com/detail/open-prompt/gkbeibjbkgchailochempflgljkeofkh)**
+
 [日本語版 README はこちら](./README_ja.md)
 
 ## Features
@@ -21,10 +23,6 @@ A Chrome extension that lets you send your Google search query to ChatGPT, Claud
 2. Enable "Developer mode" (top right)
 3. Click "Load unpacked"
 4. Select the `extension/` folder
-
-### Chrome Web Store
-
-[Install from Chrome Web Store](https://chromewebstore.google.com/detail/open-prompt/gkbeibjbkgchailochempflgljkeofkh)
 
 ## Directory Structure
 
